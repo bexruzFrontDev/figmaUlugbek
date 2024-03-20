@@ -12,6 +12,10 @@
     margin: 0 auto;
 }
 
+html{
+        scroll-behavior: smooth;
+}
+
 .top{
     text-decoration: none;
     font-size: 70px;
